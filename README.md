@@ -12,6 +12,10 @@ It allows users to:
 
 Saved recipes are stored in the browser using the localStorage API.
 
+## Demo
+
+The live demo can be found at https://yumyum-production.netlify.app/.
+
 ## Scripts
 
 Install dependencies:
